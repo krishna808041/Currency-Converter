@@ -20,4 +20,5 @@ A simple web app to convert currencies in real-time.
 
 ## 🚀 Live Demo
 
-    Check out the [Currency Converter](https://krishna808041.github.io/Currency-Converter/) live demo.
+    - Check out the live demo: [Currency Converter](https://krishna808041.github.io/Currency-Converter/)  
+
